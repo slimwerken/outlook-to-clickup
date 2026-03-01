@@ -1,0 +1,5 @@
+openai
+composio-core
+requests
+python-dotenv
+beautifulsoup4
